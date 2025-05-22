@@ -123,9 +123,6 @@ if __name__ == '__main__':
     ShaderApp().run()
 ```
 
-[![Preview](./images/quick-start.png)](https://youtu.be/Yl8OoJrm3Rw?t=7s)
-
-
 ### Step 3: Run Your Application
 
 ```bash
@@ -133,6 +130,8 @@ python shader_app.py
 ```
 
 You should see a colorful animated gradient! This simple example demonstrates the basic structure of using GLSL in Kivy.
+
+[![Preview](./images/quick-start.png)](https://youtu.be/Yl8OoJrm3Rw?t=7s)
 
 ## GLSL Fundamentals in Kivy
 
