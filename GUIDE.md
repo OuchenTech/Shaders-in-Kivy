@@ -2172,3 +2172,18 @@ if __name__ == '__main__':
 ```
 
 **Output**:
+
+
+## 💛 Support This Project
+
+If you found this guide helpful and want to support more tutorials and open-source tools like this one, consider checking out my Ko-fi shop:
+
+[![Support me on Ko-fi](./images/ouchentech-Sharable-Profile-Horizontal.jpg)](https://ko-fi.com/ouchentech)  
+
+Thanks for your support 🚀 
+
+happy coding! 🚀
+
+---
+
+© *OuchenTech 2025*
