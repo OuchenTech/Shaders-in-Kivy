@@ -123,7 +123,7 @@ if __name__ == '__main__':
     ShaderApp().run()
 ```
 
-[![Preview](./images/quick-start.png)](https://youtu.be/YOUR_VIDEO_ID?t=7s)
+[![Preview](./images/quick-start.png)](https://youtu.be/Yl8OoJrm3Rw?t=7s)
 
 
 ### Step 3: Run Your Application
@@ -596,7 +596,7 @@ if __name__ == '__main__':
     CircleApp().run()
 ```
 
-[![Preview](./images/example-1.png)](https://youtu.be/YOUR_VIDEO_ID?t=21s) 
+[![Preview](./images/example-1.png)](https://youtu.be/Yl8OoJrm3Rw?t=21s) 
 
 ### Color Manipulation
 
@@ -789,7 +789,7 @@ if __name__ == '__main__':
     ColorManipulationApp().run()
 ```
 
-[![Preview](./images/example-2.png)](https://youtu.be/YOUR_VIDEO_ID?t=35s)
+[![Preview](./images/example-2.png)](https://youtu.be/Yl8OoJrm3Rw?t=35s)
 
 #### Coloring Techniques
 
@@ -1088,7 +1088,7 @@ if __name__ == '__main__':
     AnimationTechniquesApp().run()
 ```
 
-[![Preview](./images/example-3.png)](https://youtu.be/YOUR_VIDEO_ID?t=1m10s)  
+[![Preview](./images/example-3.png)](https://youtu.be/Yl8OoJrm3Rw?t=1m10s)  
 
 ### Interactive Elements
 
@@ -1356,7 +1356,7 @@ if __name__ == '__main__':
     InteractiveElementsApp().run()
 ```
 
-[![Preview](./images/example-4.png)](https://youtu.be/YOUR_VIDEO_ID?t=1m47s)
+[![Preview](./images/example-4.png)](https://youtu.be/Yl8OoJrm3Rw?t=1m47s)
 
 ## Advanced Rendering
 
@@ -1876,7 +1876,7 @@ if __name__ == '__main__':
     RotatingSphereApp().run()
 ```
 
-[![Preview](./images/example-5.png)](https://youtu.be/YOUR_VIDEO_ID?t=2m24s)
+[![Preview](./images/example-5.png)](https://youtu.be/Yl8OoJrm3Rw?t=2m24s)
 
 **Example 1.6: Transform-Based 3D Cube with Face Coloring**
 
@@ -2168,7 +2168,7 @@ if __name__ == '__main__':
     Cube3DApp().run()
 ```
 
-[![Preview](./images/example-6.png)](https://youtu.be/YOUR_VIDEO_ID?t=2m38s)
+[![Preview](./images/example-6.png)](https://youtu.be/Yl8OoJrm3Rw?t=2m38s)
 
 ---
 
