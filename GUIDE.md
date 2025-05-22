@@ -123,7 +123,8 @@ if __name__ == '__main__':
     ShaderApp().run()
 ```
 
-**Output**:
+[![Preview](./images/quick-start.png)](https://youtu.be/YOUR_VIDEO_ID?t=7s)
+
 
 ### Step 3: Run Your Application
 
@@ -595,7 +596,7 @@ if __name__ == '__main__':
     CircleApp().run()
 ```
 
-**Output**:
+[![Preview](./images/example-1.png)](https://youtu.be/YOUR_VIDEO_ID?t=21s) 
 
 ### Color Manipulation
 
@@ -788,7 +789,7 @@ if __name__ == '__main__':
     ColorManipulationApp().run()
 ```
 
-**Output**:
+[![Preview](./images/example-2.png)](https://youtu.be/YOUR_VIDEO_ID?t=35s)
 
 #### Coloring Techniques
 
@@ -1019,7 +1020,6 @@ void main() {
 
 Here's the Python code to use this shader:
 
-
 ```python
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
@@ -1088,8 +1088,7 @@ if __name__ == '__main__':
     AnimationTechniquesApp().run()
 ```
 
-**Output**:
-
+[![Preview](./images/example-3.png)](https://youtu.be/YOUR_VIDEO_ID?t=1m10s)  
 
 ### Interactive Elements
 
@@ -1357,8 +1356,7 @@ if __name__ == '__main__':
     InteractiveElementsApp().run()
 ```
 
-**Output**:
-
+[![Preview](./images/example-4.png)](https://youtu.be/YOUR_VIDEO_ID?t=1m47s)
 
 ## Advanced Rendering
 
@@ -1878,8 +1876,7 @@ if __name__ == '__main__':
     RotatingSphereApp().run()
 ```
 
-**Output**:
-
+[![Preview](./images/example-5.png)](https://youtu.be/YOUR_VIDEO_ID?t=2m24s)
 
 **Example 1.6: Transform-Based 3D Cube with Face Coloring**
 
@@ -2171,8 +2168,9 @@ if __name__ == '__main__':
     Cube3DApp().run()
 ```
 
-**Output**:
+[![Preview](./images/example-6.png)](https://youtu.be/YOUR_VIDEO_ID?t=2m38s)
 
+---
 
 ## 💛 Support This Project
 
